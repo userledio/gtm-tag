@@ -1,3 +1,7 @@
 homepage: "https://www.userled.io"
 documentation: "https://userled-io.notion.site/Installing-with-Google-Tag-Manager-af803fecaac14dfb804c58d65584da7a"
-versions: |
+versions:
+  # Latest version
+  - sha: 20a3f898c7b122724c5b969a825e8c6c28de68ed
+    changeNotes: Initial release
+  # Older versions
