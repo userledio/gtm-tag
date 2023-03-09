@@ -71,7 +71,7 @@ ___TEMPLATE_PARAMETERS___
       }
     ],
     "simpleValueType": true,
-    "help": "For information and guidance visit:\nhttps://userled-io.notion.site/Userled-Guides-41ee4bf2f78f40318fef20643a9f67fb",
+    "help": "For guidance visit: https://userled-io.notion.site/Installing-with-Google-Tag-Manager-af803fecaac14dfb804c58d65584da7a",
     "valueValidators": [
       {
         "type": "NON_EMPTY"
