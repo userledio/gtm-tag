@@ -6,6 +6,6 @@ This tag enables full integration with Userled's SDK without a single line of co
 
 ## Maintenance
 
-Once a new release is ready, take note of the release-ready commit hash. Create another commit and update `metadata.yaml` [like so](https://github.com/intercom/official-gtm-tag/commit/14dc86f53b05df8d0cd7d3bf44d33b5a5247dab6).
+Once a new release is ready, take note of the release-ready commit hash. Create another commit and update `metadata.yaml` [like so](https://developers.google.com/tag-platform/tag-manager/templates/gallery#update_your_template).
 
 Any changes to the snippet code must align with the raw snippet used by direct integrators.
