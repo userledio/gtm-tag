@@ -14,6 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Userled",
+  "categories": [
+    "SALES",
+    "MARKETING",
+    "PERSONALIZATION",
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
